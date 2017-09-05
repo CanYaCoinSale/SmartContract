@@ -1,2 +1,2 @@
 # SmartContract
-CanYa Coin Sale - Smart Contract
+CanYa Coin Sale coming soon...
