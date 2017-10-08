@@ -1,8 +1,10 @@
 # SmartContract
 
-CanYaCoin (ERC20) Contract address:   0x22A7d3C296692Ba0F91C631b41BDfBC702885619   (do *not* send ETH here)
+CanYaCoin (ERC20) Contract address:   0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0   (do *not* send ETH here)
 
-CanYa ICO Smart-Contract:  [Coming soon!]
+CanYa ICO Pre-sale:  [Please register interest at https://canya.io to join whitelist].
+
+CanYa ICO Main Sale Smart-Contract:  [Coming soon! See https://canya.io for contract address]
 
 
 # Security
